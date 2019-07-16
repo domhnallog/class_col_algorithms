@@ -1,0 +1,46 @@
+
+DECODER
+
+A04001_001:Pop
+A04001_002:Pop_NoHisp_All
+A04001_003:Pop_NoHisp_White
+A04001_004:Pop_NoHisp_Black
+A04001_005:Pop_NoHisp_NA
+A04001_006:Pop_NoHisp_Asian
+A04001_007:Pop_NoHisp_PI
+A04001_008:Pop_NoHisp_Other
+A04001_009:Pop_NoHisp_Multi
+A04001_010:Pop_Hisp_All
+A04001_011:Pop_Hisp_White
+A04001_012:Pop_Hisp_Black
+A04001_013:Pop_Hisp_NA
+A04001_014:Pop_Hisp_Asian
+A04001_015:Pop_Hisp_PI
+A04001_016:Pop_Hisp_Other
+A04001_017:Pop_Hisp_Multi
+
+
+
+SE_A14006_001:MedIncome
+
+
+
+gapminder.rename(columns={'SE_A04001_001':'Pop',
+                          'SE_A04001_002':'Pop_NoHisp_All',
+                          'SE_A04001_003':'Pop_NoHisp_White',
+                          'SE_A04001_004':'Pop_NoHisp_Black',
+                          'SE_A04001_005':'Pop_NoHisp_NA',
+                          'SE_A04001_006':'Pop_NoHisp_Asian',
+                          'SE_A04001_007':'Pop_NoHisp_PI',
+                          'SE_A04001_008':'Pop_NoHisp_Other',
+                          'SE_A04001_009':'Pop_NoHisp_Multi',
+                          'SE_A04001_010':'Pop_Hisp_All',
+                          'SE_A04001_011':'Pop_Hisp_White',
+                          'SE_A04001_012':'Pop_Hisp_Black',
+                          'SE_A04001_013':'Pop_Hisp_NA',
+                          'SE_A04001_014':'Pop_Hisp_Asian',
+                          'SE_A04001_015':'Pop_Hisp_PI',
+                          'SE_A04001_016':'Pop_Hisp_Other',
+                          'SE_A04001_017':'Pop_Hisp_Multi',
+                          'SE_A14006_001':'MedIncome'
+                         },inplace=True)
