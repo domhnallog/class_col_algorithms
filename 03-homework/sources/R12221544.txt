@@ -1,0 +1,147 @@
+--------------------------------------------------------------------------------
+Codebook for Social Explorer report ID: R12221544
+--------------------------------------------------------------------------------
+
+Contents
+    - Table Summary
+    - Data Dictionary
+    - Citation and Use
+
+
+--------------------------------------------------------------------------------
+Table Summary
+--------------------------------------------------------------------------------
+ 
+Survey:           ACS 2015 (5-Year Estimates)
+Dataset:          American Community Survey Tables:  2011 -- 2015 (5-Year Estimates)
+Tables:
+
+      1. Employment Status for the Population 16 Years and Over
+         Universe:  Universe:  Population 16 years and Over
+         Name:      B23025
+         Variables:
+            B23025001:   Total
+            B23025002:      In Labor Force
+            B23025003:         Civilian Labor Force
+            B23025004:            Employed
+            B23025005:            Unemployed
+            B23025006:         Armed Forces
+            B23025007:      Not in Labor Force
+
+
+      2. Employment Status for the Population 16 Years and Over
+         Universe:  Universe:  Population 16 years and Over
+         Name:      B23025_se
+         Variables:
+            B23025001s:   Std. Error: Total
+            B23025002s:      Std. Error: in Labor Force
+            B23025003s:         Std. Error: Civilian Labor Force
+            B23025004s:            Std. Error: Employed
+            B23025005s:            Std. Error: Unemployed
+            B23025006s:         Std. Error: Armed Forces
+            B23025007s:      Std. Error: Not in Labor Force
+
+
+
+
+
+ 
+ 
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Variables 
+      FIPS:           FIPS
+      GEOID:          Geographic Identifier
+      NAME:           Name of Area
+      QName:          Qualifying Name
+      STUSAB:         State/U.S.-Abbreviation (USPS)
+      SUMLEV:         Summary Level
+      GEOCOMP:        Geographic Component
+      FILEID:         File Identification
+      LOGRECNO:       Logical Record Number
+      US:             US
+      REGION:         Region
+      DIVISION:       Division
+      STATECE:        State (Census Code)
+      STATE:          State (FIPS)
+      COUNTY:         County
+      COUSUB:         County Subdivision (FIPS)
+      PLACE:          Place (FIPS Code)
+      PLACESE:        Place (State FIPS + Place FIPS)
+      TRACT:          Census Tract
+      BLKGRP:         Block Group
+      CONCIT:         Consolidated City
+      AIANHH:         American Indian Area/Alaska Native Area/Hawaiian Home Land (Census)
+      AIANHHFP:       American Indian Area/Alaska Native Area/Hawaiian Home Land (FIPS)
+      AIHHTLI:        American Indian Trust Land/Hawaiian Home Land Indicator
+      AITSCE:         American Indian Tribal Subdivision (Census)
+      AITS:           American Indian Tribal Subdivision (FIPS)
+      ANRC:           Alaska Native Regional Corporation (FIPS)
+      CBSA:           Metropolitan and Micropolitan Statistical Area
+      CSA:            Combined Statistical Area
+      METDIV:         Metropolitan Division
+      MACC:           Metropolitan Area Central City
+      MEMI:           Metropolitan/Micropolitan Indicator Flag
+      NECTA:          New England City and Town Combined Statistical Area
+      CNECTA:         New England City and Town Area
+      NECTADIV:       New England City and Town Area Division
+      UA:             Urban Area
+      UACP:           Urban Area Central Place
+      CDCURR:         Current Congressional District ***
+      SLDU:           State Legislative District Upper
+      SLDL:           State Legislative District Lower
+      VTD:            Voting District
+      ZCTA3:          ZIP Code Tabulation Area (3-digit)
+      ZCTA5:          ZIP Code Tabulation Area (5-digit)
+      SUBMCD:         Subbarrio (FIPS)
+      SDELM:          School District (Elementary)
+      SDSEC:          School District (Secondary)
+      SDUNI:          School District (Unified)
+      UR:             Urban/Rural
+      PCI:            Principal City Indicator
+      TAZ:            Traffic Analysis Zone
+      UGA:            Urban Growth Area
+      BTTR:           Tribal Tract
+      BTBG:           Tribal Block Group
+      PUMA5:          Public Use Microdata Area - 5% File
+      PUMA1:          Public Use Microdata Area - 1% File
+      B23025001:      Population 16 Years and Over
+      B23025002:      Population 16 Years and Over: in Labor Force
+      B23025003:      Population 16 Years and Over: in Labor Force: Civilian Labor Force
+      B23025004:      Population 16 Years and Over: in Labor Force: Civilian Labor Force: Employed
+      B23025005:      Population 16 Years and Over: in Labor Force: Civilian Labor Force: Unemployed
+      B23025006:      Population 16 Years and Over: in Labor Force: Armed Forces
+      B23025007:      Population 16 Years and Over: Not in Labor Force
+      B23025001s:     Std. Error: Population 16 Years and Over
+      B23025002s:     Std. Error: Population 16 Years and Over: in Labor Force
+      B23025003s:     Std. Error: Population 16 Years and Over: in Labor Force: Civilian Labor Force
+      B23025004s:     Std. Error: Population 16 Years and Over: in Labor Force: Civilian Labor Force: Employed
+      B23025005s:     Std. Error: Population 16 Years and Over: in Labor Force: Civilian Labor Force: Unemployed
+      B23025006s:     Std. Error: Population 16 Years and Over: in Labor Force: Armed Forces
+      B23025007s:     Std. Error: Population 16 Years and Over: Not in Labor Force
+
+
+
+
+--------------------------------------------------------------------------------
+Citation and Use of Data
+--------------------------------------------------------------------------------
+ 
+All persons are granted a limited license to use this documentation and the
+accompanying data, subject to the following conditions:
+
+* Publications and research reports employing the data
+  must cite it appropriately. The citation should include the following:
+
+	  www.socialexplorer.com
+	  New York City, NY: Social Explorer 2019
+
+
+* Citations should also include the URL for this report:
+
+    http://www.socialexplorer.com/pub/reportdata/HtmlResults.aspx?reportid=R12221544
+
+If you have any questions contact info@socialexplorer.com
