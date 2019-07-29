@@ -1,0 +1,27 @@
+
+LIGHT_CODE (how bright)
+Weather
+JUNCTION_CODE (intersection type)
+COLLISION_TYPE_CODE ()
+SURF_COND_CODE
+LANE_CODE
+ROAD_COND_CODE
+ROAD_DIVIDED_CODE
+HARM_EVENT_CODE (what was hit)
+
+
+
+CONDITION_CODE (to MAYBE remove alcohol/drugs/sleep from equation)
+INJURY_SEVERITY_CODE ()
+PED_LOCATION_CODE
+EJECT_CODE
+
+
+HARM_EVENT_CODE (what was hit) maybe
+DAMAGE_CODE (vehicle damage severity)
+MOVEMENT_CODE (passing, turning, etc)
+GVW_CODE (vehicle weight)
+BODY_TYPE_CODE (?, the other vehicle hit?)
+
+
+CONTRIB_CODE (contrib factors !!! that will rule out 
