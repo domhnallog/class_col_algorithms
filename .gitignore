@@ -127,3 +127,6 @@ dmypy.json
 03-homework/sources/R12221550_SL140.csv
 07-homework/data/combined-person-data.csv
 07-homework/data/combined-vehicle-data.csv
+07-homework/sources/combined-crash-data.csv
+07-homework/sources/combined-person-data.csv
+07-homework/sources/combined-vehicle-data.csv
