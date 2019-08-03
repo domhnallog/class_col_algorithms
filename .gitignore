@@ -130,3 +130,5 @@ dmypy.json
 07-homework/sources/combined-crash-data.csv
 07-homework/sources/combined-person-data.csv
 07-homework/sources/combined-vehicle-data.csv
+09-classwork/data/training.1600000.processed.noemoticon.csv
+09-homework/sources/training.1600000.processed.noemoticon.csv
